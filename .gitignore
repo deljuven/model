@@ -2,3 +2,4 @@
 .idea
 environment.yml
 *.pyc
+__pycache__
